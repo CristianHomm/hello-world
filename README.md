@@ -1,6 +1,6 @@
 # hello-world
 new repository
 
-Hi people!
+Hi!
 
 Cristian here. I am a first year computer science student.
